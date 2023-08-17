@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: public/vite.svg
+  checksum: 5fe742fa65b1dea8626174e639646dd7665eb5976ae9caa62855bc9bb33aeeb0
+- filename: yarn.lock
+  checksum: 6543c038d30f0bc3e03e3eab3defaa54ca314465b5cd79d61b37da76e53e4e4a
+- filename: src/pages/LandingPage/LandingPage.jsx
+  checksum: c0a9dbb20cbb7c8524ee7ecab67fa05cbada48b13e7d4d20f7558adb85c94cdf
+version: ""
